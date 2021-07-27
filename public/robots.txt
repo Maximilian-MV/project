@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://elated-kepler-a2402c.netlify.app/sitemap-index.xml
